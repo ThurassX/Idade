@@ -20,7 +20,11 @@ public class main {
         }else if(idade<=17){
             System.out.println("adolescente");
         }else
+<<<<<<< HEAD
         System.out.println("adulto");
+=======
+            System.out.println("adulto");
+>>>>>>> teste
     
 }
 }
