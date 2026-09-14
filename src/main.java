@@ -18,7 +18,9 @@ public class main {
         if(idade<=10){
             System.out.println("crianca");
         }else if(idade<=17){
-            System.out.println("adolescente");}
+            System.out.println("adolescente");
+        }else
+            System.out.println("adulto");
     
 }
 }
